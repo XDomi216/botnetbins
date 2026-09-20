@@ -1,2 +1,2 @@
-# botnetbins
-botnet bins for a bird cnc
+# Bird Binaries
+Binario De Bird
